@@ -1,0 +1,7 @@
+C:\Kaifa\CopyFiles\bin\Release\CopyFiles.exe.config
+C:\Kaifa\CopyFiles\bin\Release\CopyFiles.exe
+C:\Kaifa\CopyFiles\bin\Release\CopyFiles.pdb
+C:\Kaifa\CopyFiles\obj\Release\CopyFiles.csproj.AssemblyReference.cache
+C:\Kaifa\CopyFiles\obj\Release\CopyFiles.csproj.CoreCompileInputs.cache
+C:\Kaifa\CopyFiles\obj\Release\CopyFiles.exe
+C:\Kaifa\CopyFiles\obj\Release\CopyFiles.pdb

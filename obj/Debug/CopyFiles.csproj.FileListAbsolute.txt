@@ -1,0 +1,13 @@
+C:\Work\Repos\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\Work\Repos\CopyFiles\bin\Debug\CopyFiles.exe
+C:\Work\Repos\CopyFiles\bin\Debug\CopyFiles.pdb
+C:\Work\Repos\CopyFiles\obj\Debug\CopyFiles.csproj.AssemblyReference.cache
+C:\Work\Repos\CopyFiles\obj\Debug\CopyFiles.csproj.CoreCompileInputs.cache
+C:\Work\Repos\CopyFiles\obj\Debug\CopyFiles.exe
+C:\Work\Repos\CopyFiles\obj\Debug\CopyFiles.pdb
+C:\Kaifa\CopyFiles\bin\Debug\CopyFiles.exe.config
+C:\Kaifa\CopyFiles\bin\Debug\CopyFiles.exe
+C:\Kaifa\CopyFiles\bin\Debug\CopyFiles.pdb
+C:\Kaifa\CopyFiles\obj\Debug\CopyFiles.csproj.CoreCompileInputs.cache
+C:\Kaifa\CopyFiles\obj\Debug\CopyFiles.exe
+C:\Kaifa\CopyFiles\obj\Debug\CopyFiles.pdb
