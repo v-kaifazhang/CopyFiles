@@ -35,7 +35,7 @@ namespace CopyFiles
             }
             try
             {
-                File.WriteAllText(sharedFilePath + "\\" + accountFileName, accountFile);
+                File.WriteAllText(sharedFilePath + "\\" + accountFileName, accountInfo);
                 File.WriteAllText(sharedFilePath + "\\" + packageFileName, packageInfo);
             }
             catch (Exception ex) 
